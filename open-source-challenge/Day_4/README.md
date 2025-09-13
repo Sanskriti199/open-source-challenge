@@ -1,0 +1,5 @@
+"### Day 4: Branching and Merging" 
+"- Understood branching and merging concepts." 
+"- Created a new branch, made changes, and committed them." 
+"- Successfully merged a branch into the main branch." 
+"- Resolved my first merge conflict." 

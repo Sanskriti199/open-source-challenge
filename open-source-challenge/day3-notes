@@ -1,0 +1,12 @@
+#Day 3: Git Basics - Remote Connection and Synchronization
+
+##What I Did:
+Learned to resolve a merge conflict that occurred when my local and remote repositories were out of sync.
+
+Successfully used the git pull command to get the latest changes from GitHub.
+
+Mastered the git push command to upload all my local changes to my online repository.
+
+Understood the importance of synchronizing my local and remote work before making new changes.
+
+The main takeaway was learning how to keep my project's history clean and how to manage and resolve conflicts between my local and remote repositories.

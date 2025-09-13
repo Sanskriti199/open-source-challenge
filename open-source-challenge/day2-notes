@@ -1,0 +1,14 @@
+#Day 2: Git Basics - Local Setup and Remote Connection
+
+##What I Did:
+Installed and configured Git on my local machine.
+
+Explored fundamental Git commands like git init, git add, and git commit.
+
+Created a local project and made my first commit to the repository's history.
+
+Learned how to connect a local repository to a remote GitHub repository.
+
+Successfully pushed my project to GitHub for the first time.
+
+The main takeaway was understanding the core workflow of saving my work locally and synchronizing it with my online GitHub repository.
