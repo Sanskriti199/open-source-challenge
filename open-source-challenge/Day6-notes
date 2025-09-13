@@ -1,0 +1,24 @@
+
+Issues
+Issues are found under the Issues tab in a repository. They serve as a tracking system for tasks, bugs, and feature requests. They can be used to:
+
+Report a bug you found in the code.
+
+Request a new feature for the project.
+
+Start a discussion about a project-related topic.
+
+Issues are essential for project management and for tracking a project's progress.
+
+Pull Requests (PRs)
+Pull Requests are found under the Pull Requests tab. They are a way to propose and review changes to a repository's code. When you create a pull request, you are suggesting that the repository's maintainers should merge the changes from your branch into their main branch.
+
+The typical workflow for a pull request is:
+
+Create a new branch to work on your changes.
+
+Make and commit your changes on that new branch.
+
+Push the branch to GitHub.
+
+Open a pull request on GitHub to ask for your changes to be reviewed and merged.
