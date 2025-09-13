@@ -1,0 +1,22 @@
+Day 5: Forking and Cloning
+Today's task was to understand the difference between forking and cloning and to practice both by creating a copy of a repository, making a change, and pushing it back.
+
+Forking
+Forking is creating a personal copy of a repository on GitHub. This allows you to work on a project without affecting the original. I forked the octocat/Hello-World repository to my own GitHub account, which created a copy at Sanskriti199/Hello-World.
+
+Cloning
+Cloning is the process of downloading a repository from a remote source (like GitHub) to a local machine (my computer). This gives me a working copy of the project on which I can make changes.
+
+I used the git clone command to download my forked repository:
+
+git clone https://github.com/Sanskriti199/Hello-World.git
+Making and Saving Changes
+After cloning, I navigated into the new folder and made a change to the README file. To save and sync this change back to my GitHub repository, I used these three Git commands:
+
+git add README: This command staged the modified file.
+
+git commit -m "Updated README with my name": This command saved a snapshot of my change with a descriptive message.
+
+git push origin master: This command uploaded my local changes to my remote repository on GitHub.
+
+These steps completed the cycle of forking, cloning, and contributing a change.
