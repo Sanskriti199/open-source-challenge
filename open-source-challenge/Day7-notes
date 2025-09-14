@@ -1,0 +1,23 @@
+What I Did-
+I cloned my forked Hello-World repository to my local computer.
+
+I created a new branch specifically for my changes.
+
+I made a simple change to the README.md file.
+
+I committed my changes locally, saving them as a checkpoint in my project's history.
+
+I pushed my new branch and its changes from my local machine to my forked repository on GitHub.
+
+I navigated GitHub's interface to find and view my changes on the new branch, confirming the push was successful.
+
+What I Learned
+The Local to Remote Workflow: I gained a practical understanding of how to take a project from GitHub, work on it locally, and then send my changes back to GitHub.
+
+The Purpose of Branches: I learned that branches are essential for isolating my work, allowing me to make changes without affecting the main version of the project.
+
+The Importance of Commits: I understood that commits are snapshots that track my changes and provide a clear history of my work.
+
+The Difference Between Local and Remote: I learned the distinction between my local copy of the repository and the version hosted on GitHub, and how the push command bridges the two.
+
+Basic Git Commands: I gained hands-on experience with key Git commands like git checkout -b, git add, git commit, and git push.
