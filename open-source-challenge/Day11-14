@@ -1,0 +1,30 @@
+ Day 11-14 Open Source Contribution Summary
+My goal was to complete 3 non-documentational code contributions in 3 separate repositories.
+
+Completed Contributions
+Contribution 1: Axe-Pearl/Mini-Projects
+
+File: Calculator/cal.html
+
+Fix: I made a refactor change. I fixed the HTML semantics by changing the calculator display element from an incorrect <h1> tag to the correct <p> tag. I also cleaned up the structure by properly grouping the decimal button (.).
+
+Status: PR submitted on my branch, fix/cleanup-unused-import.
+
+Contribution 2: DayZen-good-first-issue
+
+File: DayZen/index.html
+
+Fix: I performed a code hygiene cleanup. I removed a commented-out and unused CSS link (``) from the <head> section.
+
+Status: PR submitted on my branch, fix-issue-16-temp-var-cleanup.
+
+ Git Troubleshooting & Skills Used
+I successfully practiced the full professional workflow and resolved key Git errors:
+
+I always started work on a separate, descriptive branch using git checkout -b.
+
+I learned to resolve the "failed to push" error by correctly using the --set-upstream flag (git push --set-upstream origin [branch-name]) to link my new local branch to the remote repository.
+
+I resolved the fatal: pathspec error by troubleshooting the file path and using the correct relative path for staging (git add DayZen/index.html).
+
+I used clear, categorized commit messages (refactor:, chore:) and referenced the GitHub Issue number to link my work.
