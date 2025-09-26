@@ -1,0 +1,17 @@
+
+Goal: Implement a robust Input Validation feature for the web application.
+
+Key Contributions:
+1-Repository Setup: Forked and cloned the repository. Created a feature branch named feature/input-validation-util for development.
+
+2-Validation Logic (search4web.py):
+
+-Created a new function, is_valid_input, to centrally manage all input checks.
+-Implemented checks to ensure the phrase and letters fields are not empty, and verified that the letters field contains only alphabetical characters.
+-Modified the main route (do_search) to use this function. If validation fails, it now logs the error and re-renders the input page with a friendly error message, preventing the application from attempting to process bad data.
+
+3-Frontend Update (templates/entry.html):
+
+-Updated the HTML template to display the server-side error message (the_error) if one is present.
+-Ensured that the user's previously entered input is retained in the form fields after a validation error for a better user experience.
+-Submission: Committed all changes and submitted a Pull Request (PR) to the upstream repository for review.
