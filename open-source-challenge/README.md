@@ -13,11 +13,3 @@ Through this challenge, I will be focusing on:
 
 Stay tuned as I document my progress here!
 
-## Completed Challenges
-
-* **Day 1:** GitHub Account Setup and Profile README
-* **Day 2:** Git Basics - Local Setup
-* **Day 3:** Git Basics - Remote Connection
-* **Day 4:** Branching and Merging
-* **Day 5:** Forking and Cloning
-* **Day 6:** Understanding Issues and Pull Requests
